@@ -11,21 +11,14 @@ https://youtu.be/Yw7yWHigGKI <br />
 
 ### Images of The Portfolio Website:
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
-
+<img width="1501" alt="Screenshot 2024-07-22 at 12 37 40 AM" src="https://github.com/user-attachments/assets/b4c6af17-9bc3-4165-a1bd-f6b5bdf8de82">
+<img width="1464" alt="Screenshot 2024-07-22 at 12 38 51 AM" src="https://github.com/user-attachments/assets/4d057820-12c4-44b2-ad42-de3192e8f817">
+<img width="1414" alt="Screenshot 2024-07-22 at 12 37 53 AM" src="https://github.com/user-attachments/assets/e70da01b-0670-4f2f-9988-2ba7ac9c5048">
+<img width="1449" alt="Screenshot 2024-07-22 at 12 39 03 AM" src="https://github.com/user-attachments/assets/9727eed0-53a4-4340-9715-9a8fed9018b4">
+<img width="1485" alt="Screenshot 2024-07-22 at 12 38 04 AM" src="https://github.com/user-attachments/assets/3e90334d-b0ef-4fa7-b8b9-189acc54d48d">
+<img width="1460" alt="Screenshot 2024-07-22 at 12 39 13 AM" src="https://github.com/user-attachments/assets/87b9e5a8-d09e-4150-a865-d665dc3e963a">
 
 ### Resources Used in This Project
-
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 - Fonts from https://fonts.google.com/ <br />
 - Icons from https://iconify.design/ <br />
 - LightBulb Svg from https://lukaszadam.com/illustrations <br />
