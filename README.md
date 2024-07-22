@@ -1,14 +1,14 @@
 # 🌟 Next.js Portfolio: My Personal Portfolio Website
 
 ## 🌐 Live Preview
-Check out the live preview of my portfolio [here](#).
+Check out the live preview of my portfolio [here](https://yuvrajsingh1.netlify.app/).
 
 ## 📸 Screenshots
 
 ### Home Page
 <img width="1501" alt="Home Page" src="https://github.com/user-attachments/assets/b4c6af17-9bc3-4165-a1bd-f6b5bdf8de82">
 
-### About Me
+### Home Page - Dark mode
 <img width="1464" alt="About Me" src="https://github.com/user-attachments/assets/4d057820-12c4-44b2-ad42-de3192e8f817">
 
 ### Projects
