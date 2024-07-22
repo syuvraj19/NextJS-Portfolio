@@ -17,10 +17,10 @@ Check out the live preview of my portfolio [here](https://yuvrajsingh1.netlify.a
 ### Skills
 <img width="1449" alt="Skills" src="https://github.com/user-attachments/assets/9727eed0-53a4-4340-9715-9a8fed9018b4">
 
-### Contact
+### About Me page
 <img width="1485" alt="Contact" src="https://github.com/user-attachments/assets/3e90334d-b0ef-4fa7-b8b9-189acc54d48d">
 
-### Footer
+### About Me page - Dark mode
 <img width="1460" alt="Footer" src="https://github.com/user-attachments/assets/87b9e5a8-d09e-4150-a865-d665dc3e963a">
 
 ## 🛠️ Technologies and Tools
@@ -47,11 +47,8 @@ This portfolio website is crafted with the following technologies:
 - **Easy Customization**: Built with Tailwind CSS for quick and easy customization.
 - **Modern Tech Stack**: Built with Next.js, ensuring high performance and scalability.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
-Feel free to reach out via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](#).
+Feel free to reach out via [email](mailto:syuvraj1900@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-s29/).
 
 ---
 
