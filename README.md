@@ -11,10 +11,10 @@ Check out the live preview of my portfolio [here](https://yuvrajsingh1.netlify.a
 ### Home Page - Dark mode
 <img width="1464" alt="About Me" src="https://github.com/user-attachments/assets/4d057820-12c4-44b2-ad42-de3192e8f817">
 
-### Projects
+### Home Page - Info column
 <img width="1414" alt="Projects" src="https://github.com/user-attachments/assets/e70da01b-0670-4f2f-9988-2ba7ac9c5048">
 
-### Skills
+### Home Page - Info column - Dark Mode
 <img width="1449" alt="Skills" src="https://github.com/user-attachments/assets/9727eed0-53a4-4340-9715-9a8fed9018b4">
 
 ### About Me page
