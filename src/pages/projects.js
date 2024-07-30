@@ -172,8 +172,6 @@ const projects = () => {
               />
             </div>
 
-            </div>
-
             <div className="col-span-2 md:col-span-2">
               <FeaturedProjects
                 type="Featured Project"
