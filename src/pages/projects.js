@@ -172,24 +172,6 @@ const projects = () => {
               />
             </div>
 
-            <div className="col-span-1">
-              <Projects
-                type="Project 4"
-                title="To-Do List App"
-                img={project2}
-                ink="https://to-do-list-appjs.netlify.app/"
-                github="https://github.com/syuvraj19/To-Do-List-App"
-              />
-            </div>
-      
-            <div className="col-span-1">
-              <Projects
-                type="Project 5"
-                title="To-Do List App"
-                img={project2}
-                ink="https://to-do-list-appjs.netlify.app/"
-                github="https://github.com/syuvraj19/To-Do-List-App"
-              />
             </div>
 
             <div className="col-span-2 md:col-span-2">
